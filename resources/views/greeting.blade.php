@@ -6,7 +6,7 @@
 </head>
 <body class="bg-gray-100 text-center p-10">
     <img src="{{ asset('images/yourimage.jfif') }}" alt="Laravel Logo"
-         class="mx-auto mt-4 w-16 h-16 object-contain">
+         class="mx-auto mt-4 w-20 h-20 object-contain">
     <h1 class="text-3xl text-blue-600 font-bold mt-4">
         Hello, {{ $name }}! Welcome to Laravel
     </h1>
