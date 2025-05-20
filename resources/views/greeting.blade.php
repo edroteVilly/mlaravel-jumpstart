@@ -19,7 +19,7 @@
 
     h1 {
         font-size: 1.875rem;
-        color: #2563eb;
+        color: #C3B1E1;
         font-weight: bold;
         margin-top: 1rem;
     }
